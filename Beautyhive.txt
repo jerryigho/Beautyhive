@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Fitness Website</title>
+</head>
+<body>
+  <header>
+    <h1>My Fitness Website</h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/about">About</a>
+      <a href="/contact">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section id="hero">
+      <h2>Get fit and healthy with My Fitness Website</h2>
+      <p>We offer a variety of fitness programs and services to help you reach your fitness goals.</p>
+      <a href="/about">Learn more</a>
+    </section>
+    <section id="programs">
+      <h2>Our Fitness Programs</h2>
+      <ul>
+        <li>Weight loss program</li>
+        <li>Muscle building program</li>
+        <li>Cardio program</li>
+        <li>Yoga program</li>
+        <li>Pilates program</li>
+      </ul>
+      <a href="/programs">Learn more</a>
+    </section>
+    <section id="services">
+      <h2>Our Fitness Services</h2>
+      <ul>
+        <li>Personal training</li>
+        <li>Group fitness classes</li>
+        <li>Nutrition counseling</li>
+        <li>Massage therapy</li>
+        <li>Cryotherapy</li>
+      </ul>
+      <a href="/services">Learn more</a>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; My Fitness Website 2023</p>
+  </footer>
+</body>
+</html>
